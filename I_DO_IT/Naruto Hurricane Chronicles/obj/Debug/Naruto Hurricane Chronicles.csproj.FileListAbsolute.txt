@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\I_DO_IT\Naruto Hurricane Chronicles\bin\Debug\Naruto Hurricane Chronicles.exe.config
+C:\Users\user\Desktop\I_DO_IT\Naruto Hurricane Chronicles\bin\Debug\Naruto Hurricane Chronicles.exe
+C:\Users\user\Desktop\I_DO_IT\Naruto Hurricane Chronicles\bin\Debug\Naruto Hurricane Chronicles.pdb
+C:\Users\user\Desktop\I_DO_IT\Naruto Hurricane Chronicles\obj\Debug\Naruto Hurricane Chronicles.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\I_DO_IT\Naruto Hurricane Chronicles\obj\Debug\Naruto Hurricane Chronicles.exe
+C:\Users\user\Desktop\I_DO_IT\Naruto Hurricane Chronicles\obj\Debug\Naruto Hurricane Chronicles.pdb
+C:\Users\user\Desktop\I_DO_IT\Naruto Hurricane Chronicles\obj\Debug\Naruto Hurricane Chronicles.csprojAssemblyReference.cache

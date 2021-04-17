@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\I_DO_IT\I_DO_IT\bin\Debug\I_DO_IT.exe.config
+C:\Users\user\source\repos\I_DO_IT\I_DO_IT\bin\Debug\I_DO_IT.exe
+C:\Users\user\source\repos\I_DO_IT\I_DO_IT\bin\Debug\I_DO_IT.pdb
+C:\Users\user\source\repos\I_DO_IT\I_DO_IT\obj\Debug\I_DO_IT.csprojAssemblyReference.cache
+C:\Users\user\source\repos\I_DO_IT\I_DO_IT\obj\Debug\I_DO_IT.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\I_DO_IT\I_DO_IT\obj\Debug\I_DO_IT.exe
+C:\Users\user\source\repos\I_DO_IT\I_DO_IT\obj\Debug\I_DO_IT.pdb
+C:\Users\user\Desktop\I_DO_IT\I_DO_IT\obj\Debug\I_DO_IT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\I_DO_IT\I_DO_IT\obj\Debug\I_DO_IT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\I_DO_IT\I_DO_IT\obj\Debug\I_DO_IT.exe
+C:\Users\user\Desktop\I_DO_IT\I_DO_IT\obj\Debug\I_DO_IT.pdb
+C:\Users\user\Desktop\I_DO_IT\I_DO_IT\bin\Debug\I_DO_IT.exe.config
+C:\Users\user\Desktop\I_DO_IT\I_DO_IT\bin\Debug\I_DO_IT.exe
+C:\Users\user\Desktop\I_DO_IT\I_DO_IT\bin\Debug\I_DO_IT.pdb
+C:\Users\Nikita\Desktop\Новая папка (2)\I_DO_IT - копия\I_DO_IT\bin\Debug\I_DO_IT.exe.config
+C:\Users\Nikita\Desktop\Новая папка (2)\I_DO_IT - копия\I_DO_IT\bin\Debug\I_DO_IT.exe
+C:\Users\Nikita\Desktop\Новая папка (2)\I_DO_IT - копия\I_DO_IT\bin\Debug\I_DO_IT.pdb
+C:\Users\Nikita\Desktop\Новая папка (2)\I_DO_IT - копия\I_DO_IT\obj\Debug\I_DO_IT.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Новая папка (2)\I_DO_IT - копия\I_DO_IT\obj\Debug\I_DO_IT.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Новая папка (2)\I_DO_IT - копия\I_DO_IT\obj\Debug\I_DO_IT.exe
+C:\Users\Nikita\Desktop\Новая папка (2)\I_DO_IT - копия\I_DO_IT\obj\Debug\I_DO_IT.pdb
